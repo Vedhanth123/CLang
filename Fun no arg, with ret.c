@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void sum()
+int sum()
 {
     int a = 10;
     int b = 20;
